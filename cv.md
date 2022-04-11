@@ -40,4 +40,4 @@ My name is Tinatin Khmaladze, i live in Georgia, Rustavi, 24 years old. During t
 ---
 - Georgian - Native
 - Russian - Fluent
-- English - B1
+- English - B2
