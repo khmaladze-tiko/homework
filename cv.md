@@ -29,3 +29,10 @@ My name is Tinatin Khmaladze, i live in Georgia, Rustavi, 24 years old. During t
 
 ---
 
+### Education
+---
+- Geolab Front-end courses (2020)- Web Programming Front End (HTML, CSS)
+- TSU - Faculty of Economics. Specialty: Menagerial Economics (2016-2020)
+
+
+---
